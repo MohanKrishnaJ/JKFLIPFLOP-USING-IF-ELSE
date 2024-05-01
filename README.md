@@ -49,8 +49,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **PROGRAM**
 
 
-Developed by :Abinaya A
-Reg no:212223040003
+Developed by :MOHAN KRISHNA J
+Reg no:212223220060
 ```
 module JK(q, qb,j,k,clock,reset);
     input j,k,clock,reset;
